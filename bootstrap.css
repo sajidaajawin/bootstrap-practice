@@ -1,0 +1,33 @@
+
+.hero {
+    background-position: center;
+    color: #fff;
+    padding: 150px 0;
+    text-align: center;
+}
+
+.hero h1 {
+
+    font-size: 36px;
+}
+
+.hero p {
+    font-size: 18px;
+}
+
+.hero-btns {
+    margin-top: 20px;
+}
+
+
+.custom-card {
+    background-color: #f8f9fa;
+    border: #343a40;
+}
+
+
+.footer {
+    background-color: #343a40;
+    color: #000000;
+    padding: 10px 0;
+}
